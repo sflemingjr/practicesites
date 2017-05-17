@@ -1,0 +1,48 @@
+body {
+  margin-top: 50px;
+  padding: 40px;
+  background-color: black;
+}
+h1, h2,h3 {
+  padding: 20px;
+   border-style: solid;
+  border-color: #000;
+  background-color: #ccc;
+  
+}
+
+.img-circular, .img-circular img {
+  padding: 10px;
+  border-style: solid;
+  border-color: #000;
+  background-color: #ccc;
+  border-radius: 100%;
+}
+
+.img-circular {
+  hieght: 350px;
+  width: 350px;
+}
+
+.img-circular img {
+  hieght: 300px;
+  width: 300px;
+}
+
+p {
+  padding: 50px;
+  border-style: solid;
+  border-color: #000;
+  background-color: #ccc;
+  padding: 15px;
+  border-style: solid;
+  border-color: #000;
+  background-color: #ccc;
+}
+
+h4  {
+  padding: 10px;
+   border-style: solid;
+  border-color: #000;
+  background-color: #ccc
+}
